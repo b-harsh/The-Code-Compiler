@@ -1,0 +1,7 @@
+{
+  "name": "the-compiler",
+  "version": "1.0.0",
+  "author": "Harsh bajaj",
+  "license": "CC-BY-4.0",
+  "main": "./the-compiler.js"
+}
